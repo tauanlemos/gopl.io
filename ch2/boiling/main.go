@@ -9,6 +9,7 @@ package main
 
 import "fmt"
 
+// Package-level declaration
 const boilingF = 212.0
 
 func main() {
